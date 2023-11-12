@@ -1,0 +1,16 @@
+C:\Users\milli\Desktop\Asignment Project\Asignment Project\bin\Debug\net6.0-windows\Asignment Project.exe
+C:\Users\milli\Desktop\Asignment Project\Asignment Project\bin\Debug\net6.0-windows\Asignment Project.deps.json
+C:\Users\milli\Desktop\Asignment Project\Asignment Project\bin\Debug\net6.0-windows\Asignment Project.runtimeconfig.json
+C:\Users\milli\Desktop\Asignment Project\Asignment Project\bin\Debug\net6.0-windows\Asignment Project.dll
+C:\Users\milli\Desktop\Asignment Project\Asignment Project\bin\Debug\net6.0-windows\Asignment Project.pdb
+C:\Users\milli\Desktop\Asignment Project\Asignment Project\obj\Debug\net6.0-windows\Asignment_Project.Form1.resources
+C:\Users\milli\Desktop\Asignment Project\Asignment Project\obj\Debug\net6.0-windows\Asignment Project.csproj.GenerateResource.cache
+C:\Users\milli\Desktop\Asignment Project\Asignment Project\obj\Debug\net6.0-windows\Asignment Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\milli\Desktop\Asignment Project\Asignment Project\obj\Debug\net6.0-windows\Asignment Project.AssemblyInfoInputs.cache
+C:\Users\milli\Desktop\Asignment Project\Asignment Project\obj\Debug\net6.0-windows\Asignment Project.AssemblyInfo.cs
+C:\Users\milli\Desktop\Asignment Project\Asignment Project\obj\Debug\net6.0-windows\Asignment Project.csproj.CoreCompileInputs.cache
+C:\Users\milli\Desktop\Asignment Project\Asignment Project\obj\Debug\net6.0-windows\Asignment Project.dll
+C:\Users\milli\Desktop\Asignment Project\Asignment Project\obj\Debug\net6.0-windows\refint\Asignment Project.dll
+C:\Users\milli\Desktop\Asignment Project\Asignment Project\obj\Debug\net6.0-windows\Asignment Project.pdb
+C:\Users\milli\Desktop\Asignment Project\Asignment Project\obj\Debug\net6.0-windows\Asignment Project.genruntimeconfig.cache
+C:\Users\milli\Desktop\Asignment Project\Asignment Project\obj\Debug\net6.0-windows\ref\Asignment Project.dll
